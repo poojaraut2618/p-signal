@@ -1,0 +1,21 @@
+.banner-section{
+    position: relative;
+    background-image: url("C:\Users\Pooja-pc\Desktop\Vm3 solution\React\p-signal\src\home\banner-image.png");
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h2{
+    text-align: center;
+    margin-bottom: 30px;
+    font-size: 32px;
+    font-weight: 600;
+}
+.headingText{
+    color: #38B6FF;
+}
+
+button{
+    display: inline-block;
+}

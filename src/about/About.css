@@ -1,0 +1,8 @@
+.about-title{
+    background-image: url("C:\Users\Pooja-pc\Desktop\Vm3 solution\React\p-signal\src\about\aboutBanner.jpeg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 450px;
+    position: relative;
+}
