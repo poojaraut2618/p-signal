@@ -1,0 +1,8 @@
+.service-title{
+    position: relative;
+    background-image: url("C:\Users\Pooja-pc\Desktop\Vm3 solution\React\p-signal\src\services\service-title.jpeg");
+    background-repeat: no-repeat;
+    height: 450px;
+    background-position: center;
+    background-size: cover;
+}
